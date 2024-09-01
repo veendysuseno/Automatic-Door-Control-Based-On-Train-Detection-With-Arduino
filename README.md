@@ -16,7 +16,7 @@ This project demonstrates an automatic door control system using an Arduino, IR 
 
 - The schematic diagram shows how to connect the IR sensors and servos to the Arduino board. This helps to facilitate wiring from the microcontroller to the devices.
 
-![Schematic](img/schematic.jpg)
+![Schematic](img/skema.jpg)
 
 ## Circuit Diagram
 
